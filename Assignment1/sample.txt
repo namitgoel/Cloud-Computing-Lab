@@ -1,0 +1,14 @@
+winston is one of the most laid-back people i know he is tall and slim with black hair and he always wears a tshirt and black jeans his jeans have holes in them and his baseball boots are scruffy too he usually sits at the back of the class and he often seems to be asleep however when the exam results are given out he always gets an i  think hes as lazy as he appears to be
+This method will continue for all future document files This method will continue for all future document files
+There will be no audio files since you will be able to listen to my lecture during the classroom presentation I will deliver the lectures slowly so that you can take
+down your notes which you can consult while reading the word or the pdf files later There are several figures in the file and all the images are contained in the
+The codetantra platform will allow me to upload and present to you the pdf file At that time you can listen to my lectures in a normal way The
+document files uploaded now and in future will have some blank pages to be used as whiteboard during the Codetantra presentation
+In the course of Formal Languages we learnt about the classes of Regular Languages Context Free Languages and Context Sensitive Languages Regular Languages are recognized by computing machines known as
+A special type of Turing Machine will be called Linear Bounded Automata and these will recognize CSL
+However a general Turing Machine will recognize a much bigger class of languages known as Turing recognizable or recursively enumerable on right the tape extends to infinity At every point of
+computation every square contains some symbol from a tape alphabet which contains the input alphabet a special blank symbol  not contained in  and some other special symbols
+There is a tape head which is above some square and it can read or write a symbol in this square During computation the machine is in some state a finite set of states In one step
+At the beginning the machine is in the start state the input is in the leftmost squares and the head is in the leftmost square The rest of the squares contain the blank symbol B Thus in a finite
+number of steps all but a finite number of squares contain B There are two special states and when the machine reaches either of these two states it halts If it reaches the input is
+accepted and at is rejected A third possibility is that the machine loops ie goes on computing indefinitely without halting Thus formally a deterministic Turing Machine is a 7 tuple

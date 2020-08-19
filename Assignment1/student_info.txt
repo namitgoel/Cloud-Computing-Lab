@@ -1,0 +1,6 @@
+Namit Goel, CS109, 5, CS301-Theory of Computation, CS352-Computer Networks, CS353-Computer Networks Lab, CS306-Machine Learning, CS316-Machine Learning Lab, 
+Chayan Gurele, CS045, 4, MA203-Mathematics III, MA205-Discrete Mathematics, CS201-Algorithms, CS210-Algorithm Lab, CS202-IT Workshop I, 
+Shobhit Singh, CS168, 1, MA101-Mathematics I, CS101-Computer Programming, CS110-Computer Programming Lab, CS103-Data Structures, CS111-Data Structures Lab, 
+Namit Goel, EC123, 3, MA203-Mathematics III, MA205-Discrete Mathematics, SC201-Physics I, EC201-Analog Circuits, EC260-Semiconductor Devices, 
+Atul Prakash, CS038, 3, CS241-DBMS Lab, CS240-Database Management Systems, SC202-Chemistry, CS210-Formal Languages and Automata, CS231-Operating Systems, 
+Rishabh, CS140, 2, MA101-Mathematics I, CS101-Computer Programming, CS110-Computer Programming Lab, HS101-English, MA102-Mathematics II, 
